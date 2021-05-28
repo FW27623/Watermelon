@@ -987,9 +987,9 @@ window.__require = function e(t, n, o) {
                         scale: .9
                     }).union().repeatForever().start()
                 }, t.prototype.update = function(e) {}, t.prototype.adsButtonFunc2 = function() {
-                    window.location.href = "https://www.qwas.top"
+                    window.location.href = "https://www.fw1028.top/"
                 }, t.prototype.bannerButtonFunc = function() {
-                    window.location.href = "https://www.qwas.top"
+                    window.location.href = "https://www.fw1028.top"
                 }, t.prototype.ShowFailedUi = function(e, t) {
                     e = e * (window.difficulty[0] + 1);
                     t = t * (window.difficulty[0] + 1);
