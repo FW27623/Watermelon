@@ -1,9 +1,9 @@
 ## 合成大西瓜
 
 
-github地址：https://github.com/FW27623/Watermelon/
+Github地址：https://github.com/FW27623/Watermelon/
 
-魔改版演示地址：https://fw27623.github.io/Watermelon/
+魔改版Github Pages演示地址：https://fw27623.github.io/Watermelon/
 
 
 
@@ -29,7 +29,7 @@ github地址：https://github.com/FW27623/Watermelon/
 
 去除小瓜：刷出橘子到菠萝
 
-暴力吃瓜：刷出西瓜
+暴力吃瓜：刷出西瓜（直接刷出西瓜还玩个勾巴，建议直接关闭本网页）
 
 # 分数选择
 
@@ -45,7 +45,7 @@ github地址：https://github.com/FW27623/Watermelon/
 
 万倍暴击：原有基础上翻10000倍
 
-十万伏特：原有基础上翻100000倍
+十万伏特：原有基础上翻100000倍（过过瘾就好，你是不可能达到这个分数的🤪）
 
 # 分支说明
 分支「master」是最新的源码，各种水果图片分开了。魔改了模式选择和分数选择。修复了，结算分数不正常的BUG。
